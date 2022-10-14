@@ -1,0 +1,11 @@
+/Users/rahelund/C#/TESTES-ALT-HEROKU/bin/Debug/net6.0/publish/TESTES-ALT-HEROKU
+/Users/rahelund/C#/TESTES-ALT-HEROKU/bin/Debug/net6.0/publish/appsettings.Development.json
+/Users/rahelund/C#/TESTES-ALT-HEROKU/bin/Debug/net6.0/publish/appsettings.json
+/Users/rahelund/C#/TESTES-ALT-HEROKU/bin/Debug/net6.0/publish/TESTES-ALT-HEROKU.dll
+/Users/rahelund/C#/TESTES-ALT-HEROKU/bin/Debug/net6.0/publish/TESTES-ALT-HEROKU.deps.json
+/Users/rahelund/C#/TESTES-ALT-HEROKU/bin/Debug/net6.0/publish/TESTES-ALT-HEROKU.runtimeconfig.json
+/Users/rahelund/C#/TESTES-ALT-HEROKU/bin/Debug/net6.0/publish/TESTES-ALT-HEROKU.pdb
+/Users/rahelund/C#/TESTES-ALT-HEROKU/bin/Debug/net6.0/publish/Microsoft.OpenApi.dll
+/Users/rahelund/C#/TESTES-ALT-HEROKU/bin/Debug/net6.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/rahelund/C#/TESTES-ALT-HEROKU/bin/Debug/net6.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/rahelund/C#/TESTES-ALT-HEROKU/bin/Debug/net6.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
